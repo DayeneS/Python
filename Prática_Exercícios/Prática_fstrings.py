@@ -1,3 +1,8 @@
+nome = 'Dayene Santos'
+altura = 1.64
+peso = 48
+imc = peso / (altura*altura)
+
 linha_1 = f'{nome} tem {altura:.2f} de altura,'
 linha_2 = f'pesa {peso} quilos,'
 linha_3 = f'e seu imc é de {imc}'
