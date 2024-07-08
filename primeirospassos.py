@@ -1,6 +1,6 @@
 """
 Python = Linguagem de programação
-Tipagem de tipagem = Dinâmica/Forte
+Tipo de tipagem = Dinâmica/Forte
 Str -> string = texto
 Strings = são textos que estão dentro de aspas
 DocString = Usar as três aspas duplas antes e depois de determinado texto
