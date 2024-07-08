@@ -1,12 +1,12 @@
 #Operadores lógicos e relacionais
 """
 Operadores matemáticos:
-+ Adição
-- Subtração
-* Multiplicação
-/ Divisão
-** Exponenciação
-% Módulo - retorna o resto de uma divisão não exata.
++ Adição = 10 + 10
+- Subtração = 10 - 5
+* Multiplicação = 5 * 2
+/ Divisão = 10 / 2
+** Exponenciação = 2 ** 3 
+% Módulo - retorna o resto de uma divisão não exata. = 55%2
 
 Operador de atribuição:
 =
