@@ -5,6 +5,7 @@ FLOAT é a representação de números decimais, sejam eles positivos ou negativ
 TYPE mostra o tipo que o python inferiu ao valor.
 """
 # Exemplos:
+
 print(11) #Inteiro positivo
 print(-11) #Inteiro negativo
 print(0) #Inteiro positivo
