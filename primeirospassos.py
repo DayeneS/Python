@@ -4,10 +4,9 @@ Tipo de tipagem = Dinâmica/Forte
 Str -> string = texto
 Strings = são textos que estão dentro de aspas
 DocString = Usar as três aspas duplas antes e depois de determinado texto
-permite escrever o que precisar que a linguagem irá "ignorar" os comandos, 
+permite escrever o que precisar que a linguagem irá 'ignorar' os comandos, 
 e esse espaço pode ser usado como uma documentação.
-Escape -> '\ ou r' = quando é necessário que o interpretador 'pule' alguma parte do texto. 
-
+Escape -> \ ou r = quando é necessário que o interpretador 'pule' alguma parte do texto. 
 """
 '''
 O uso de aspas simples pode ser usado da mesma maneira, mas lembrando que 
