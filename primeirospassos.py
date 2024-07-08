@@ -1,6 +1,9 @@
 """
-DocString:
-Usar as três aspas duplas antes e depois de determinado texto
+Python = Linguagem de programação
+Tipagem de tipagem = Dinâmica/Forte
+Str -> string = texto
+Strings = são textos que estão dentro de aspas
+DocString = Usar as três aspas duplas antes e depois de determinado texto
 permite escrever o que precisar que a linguagem irá "ignorar" os comandos, 
 e esse espaço pode ser usado como uma documentação.
 """
