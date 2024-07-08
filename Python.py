@@ -10,5 +10,5 @@ devemos manter um padrão, ou seja, definir o uso de aspas duplas ou simples.
 '''
 # Mensagem precedida de hastag não é reproduzida no código; ela pode ser usada antes,
 print(123) # depois do código,
-# ou abaixo
+# ou abaixo, como se fosse um comentário
 print(456) 
