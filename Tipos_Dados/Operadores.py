@@ -5,6 +5,7 @@ Operadores matemáticos:
 - Subtração = 10 - 5
 * Multiplicação = 5 * 2
 / Divisão = 10 / 2
+// Divisão Inteira = 11/2 #5
 ** Exponenciação = 2 ** 3 
 % Módulo - retorna o resto de uma divisão não exata. = 55%2
 
