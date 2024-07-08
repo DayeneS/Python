@@ -31,6 +31,6 @@ e vice-versa.
 print("Dayene 'Dos' Santos")
 
 # Mensagem precedida de hastag não é reproduzida no código; ela pode ser usada antes,
-print(123) # depois do código,
-# ou abaixo, como se fosse um comentário
+print(123) # depois,
+# ou abaixo do código, como um comentário
 print(456) 
